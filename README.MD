@@ -1,0 +1,7 @@
+```
+npm install
+```
+
+```
+node potusScraper
+```
